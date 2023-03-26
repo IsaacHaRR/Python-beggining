@@ -22,13 +22,3 @@ else:
 
 
 
-
-  def pow(base, pow_number):
-    count = 0
-    result
-    while (count == pow_number):
-        result = result * base
-        count *= count 
-    return result
-
-print(pow(3,2))
